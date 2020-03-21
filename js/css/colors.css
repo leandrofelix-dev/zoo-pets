@@ -1,0 +1,17 @@
+
+/* Gradiente de cores utilizada no site */
+
+:root{
+
+--color-transparente: #00000000;
+    --color-vermelho: #FF4940;
+    --color-branco-1: #FAFAFA;
+    --color-branco-2: #FAFAFA;
+      --color-azul-1: #289498;
+      --color-azul-2: #62D8DD;
+      --color-azul-3: #A1D1D2;
+      --color-azul-4: #CCEBED;
+      --color-azul-5: #E0F8FA;
+       --color-preto: #333333;
+      
+}
