@@ -1,0 +1,37 @@
+@font-face{
+    src: url(../fonts/segoe-mt.ttf);
+    font-family: 'Segoe';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    font-family: Segoe UI, Segoe !important;
+}
+html, body{
+    background: var(--color-branco);
+    text-rendering: optimizeLegibility;
+    width: 100vw;
+}
+
+body {
+    font-family: "Segoe";
+    overflow-x: hidden;
+}
+
+input::placeholder{
+    color: var(--color-azul-1);
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    text-decoration: none !important;
+    color: var(--color-vermelho);
+} 
