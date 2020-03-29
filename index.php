@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-bt">
+<?php require('login.php')?>
 <?php require('cabecalho.php');?>
 <body>
 <div class="all-top">
