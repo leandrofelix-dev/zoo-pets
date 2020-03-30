@@ -17,12 +17,3 @@
     </div>
     <button type="submit" class="btn btn-primary">Enviar</button>
   </form>
-
-<script>
-    function abrir_login(){
-        document.getElementById("login-form").style.display = "block";
-}
-    function fechar_login(){
-        document.getElementById("login-form").style.display = "none";
-}
-</script>
