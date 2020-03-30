@@ -8,7 +8,7 @@
             <div class="social flex">
                 <img src="./icons/user.svg" alt="user.svg">
                     <div class="social-msg">
-                        <a href="" onmouseenter="abrir_login()">    
+                        <a href="">
                         <span>
                             <b>Bem-vindo!</b><br> 
                             <p>Entre ou cadastre-se</p>
