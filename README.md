@@ -7,6 +7,10 @@ Repositório do projeto do site ZooPets - Várzea Alegre - CE.
 ## Requisitos
 
 - Ter o GIT instalado na máquina
+    #### Para isso, execute a seguibte linha de comando no terminal:
+    ```
+    sudo apt install git
+    ```
 - Ter o XAMPP ou outro servidor local com suporte ao PHP, instalado na máquina
 - Ter um Browser com suporte ao PHP
 
