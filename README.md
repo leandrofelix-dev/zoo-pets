@@ -15,6 +15,9 @@ Repositório do projeto do site ZooPets - Várzea Alegre - CE.
 Siga as instruções a seguir para instalar o projeto na sua máquina:
 
 1. Com o git instalado, clone este repositório colando essa linha de comando na pasta htdocs do XAMPP pelo terminal (Linux)
+    ```
+      cd /opt/lampp/htdocs
+   ```
    ```
       git clone https://github.com/lehinfo-felix/pet-shop.git
    ```
