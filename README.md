@@ -31,7 +31,7 @@ Siga as instruções a seguir para instalar o projeto na sua máquina:
    ```
 4. Abra em seu navegador
     ```
-        http://http://localhost/pet-shop/
+       http://localhost/pet-shop/
     ```
 5. Desfrute do site =)
    
